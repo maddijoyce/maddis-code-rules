@@ -1,0 +1,17 @@
+{
+  "name": "tslint-config-maddi",
+  "version": "1.0.0",
+  "description": "Maddi's Prettier and TSLint Configs",
+  "scripts": {},
+  "author": "maddijoyce",
+  "repository": "github:maddijoyce/tslint-config-maddi",
+  "license": "MIT",
+  "dependencies": {
+    "tslint-config-airbnb": "^5.9.2",
+    "tslint-config-prettier": "^1.13.0"
+  },
+  "peerDependencies": {
+    "prettier": "^1.13.0",
+    "tslint": "^5.5.0"
+  }
+}
