@@ -1,10 +1,10 @@
 {
-  "name": "tslint-config-maddi",
+  "name": "maddis-code-rules",
   "version": "1.0.0",
   "description": "Maddi's Prettier and TSLint Configs",
   "scripts": {},
   "author": "maddijoyce",
-  "repository": "github:maddijoyce/tslint-config-maddi",
+  "repository": "github:maddijoyce/maddis-code-rules",
   "license": "MIT",
   "dependencies": {
     "tslint-config-airbnb": "^5.9.2",
