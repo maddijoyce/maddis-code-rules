@@ -7,8 +7,8 @@
   "repository": "github:maddijoyce/maddis-code-rules",
   "license": "MIT",
   "dependencies": {
-    "tslint-config-airbnb": "^5.9.2",
-    "tslint-config-prettier": "^1.13.0"
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-prettier": "^1.16.0"
   },
   "peerDependencies": {
     "prettier": "^1.13.0",
