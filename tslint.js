@@ -12,5 +12,7 @@ module.exports = {
         'function-regex': '^[a-z][\\w\\d]+$',
       },
     ],
+    'no-floating-promises': true,
+    'no-unused-expression': true,
   },
 };
